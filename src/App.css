@@ -1,0 +1,30 @@
+body{
+  background-color: #072236;
+  color: #fffbf3
+}
+.container_botoes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+
+
+
+
+.titulo{
+  font-size: 40px;
+  font-style: italic;
+  letter-spacing: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.descricao{
+  text-decoration: underline;
+  color: #32beff;
+}
+
+.nota{
+  text-decoration: line-through;
+}
